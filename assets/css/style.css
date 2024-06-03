@@ -729,7 +729,7 @@ footer p:last-child{
         margin: 30px auto 0px;
     }
     .hero .content h1{
-        font-size:var(--fs-30);
+        font-size:25px;
     }
     /* --------------- Hero section --------------- */
     .skill-content{
