@@ -510,6 +510,7 @@ footer span{
 footer p{
     color: var(--cl-white);
     font-weight: 400;
+    text-align:center;
     letter-spacing: 1px;
 }
 footer p:first-child{
