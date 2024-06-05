@@ -180,7 +180,7 @@ window.onload = () => {
     function checkEmailValue() {
         email.classList.add('invalid');
         if (email.value === "") {
-            document.querySelector(email.dataset.form).innerText = "The email is reqierd!";
+            document.querySelector(email.dataset.form).innerText = "The email is required!";
         } else {
             document.querySelector(email.dataset.form).innerText = "email not valid!";
         }
